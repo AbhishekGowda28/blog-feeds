@@ -13,3 +13,8 @@ function isNumberNegativeZero(num){
     return Object.is(num, -0);
 }
 ```
+
+
+## References
+
+- https://wirfs-brock.com/allen/posts/128
